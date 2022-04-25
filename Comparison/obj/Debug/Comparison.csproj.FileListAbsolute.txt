@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\sande\source\repos\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\sande\source\repos\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\sande\source\repos\Comparison\Comparison\obj\Debug\Comparison.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Comparison\Comparison\obj\Debug\Comparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\sande\source\repos\Comparison\Comparison\obj\Debug\Comparison.pdb
