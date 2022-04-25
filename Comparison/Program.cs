@@ -15,6 +15,8 @@ namespace Comparison
             list.Add(new Product("Notebook", 1200.00));
             list.Add(new Product("Tablet", 450.00));
 
+            Comparison<Product> comparison = CompareProducts;
+
             list.Sort(CompareProducts);
 
             foreach (Product p in list)
